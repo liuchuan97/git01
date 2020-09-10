@@ -6,6 +6,9 @@ public class Hellow {
 
         System.out.println("hellow word");
         System.out.println("hellow word");
+
+        System.out.println("hellow java");
+
     }
 
     public static void main(String[] args) {
