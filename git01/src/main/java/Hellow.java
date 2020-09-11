@@ -8,6 +8,7 @@ public class Hellow {
         System.out.println("hellow word");
 
         System.out.println("hellow java");
+        System.out.println("haha");
 
     }
 
